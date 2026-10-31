@@ -2,8 +2,10 @@ Emri i projektit: Mini Project, Pop quiz!
 
 Veglat: VSCode, Github
 
+Live link: https://miniproject-sandy-ten.vercel.app/
+
 AI declaration:
-Tool: ChatGPT / Copilot / Claude / tjetër
+Tool: ChatGPT
 
 Për çfarë u përdor: Per te kuptuar tag-un button, per te lidhur script.js me index.html, per te bere faqen te duket me mire ne telefon.
 
