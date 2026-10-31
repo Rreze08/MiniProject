@@ -1,0 +1,39 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: lightblue;
+    text-align: left;
+    padding: 20px;
+}
+
+
+
+h1 {
+    color: darkblue;
+}
+
+.option {
+    display: block;
+    margin: 15px;
+    padding: 10px;
+    background-color: lightgray;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button {
+    background-color: darkblue;
+    color: white;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+#rezultati {
+    font-weight: bold;
+}
